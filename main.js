@@ -1,1 +1,1 @@
-alert('Welcome to Isaac Bulletin')
+alert('Welcome to January Bulletin')
